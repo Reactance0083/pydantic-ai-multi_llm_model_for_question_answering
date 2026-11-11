@@ -1,9 +1,11 @@
-> **Commercial status:** Deferred code reference. This repository is not the current flagship and should not be promoted as commercially ready until its package, listing, README, and download flow are re-verified.
+# Multi-Model Question Answering Concept
 
+**[Portfolio](https://github.com/Reactance0083)** · **Status: concept only**
 
-## Current Status
+This early project explores a question-answering workflow using multiple language models.
 
-This repository is a deferred code reference, not the current Stage 1 flagship. It may be useful for learning, but it should not be promoted as commercially ready until its package, listing, README, and download flow are re-verified.
+The repository currently contains a README, environment example, and dependency list. It does **not** contain application source, a runnable API, a model-routing implementation, or tests.
 
-# pydantic-ai-multi_llm_model_for_question_answering
-pydantic-ai + FastAPI template: Multi-LLM Model for Question Answering
+For implemented model-routing work, see [Multi-LLM Cost Optimizer](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer).
+
+Reviewed November 10, 2026.
